@@ -19,8 +19,7 @@
 
 - Other readings
     - Warren S. McCulloch, Embodiments of Mind, MIT Press 1988 - [link](https://mitpress.mit.edu/books/embodiments-mind)
-    - Richard Dedekind, Was sind und was sollen die Zahlen? - [German](http://www.opera-platonis.de/dedekind/Dedekind_Was_sind_2.pdf), [English](https://www.gutenberg.org/files/21016/21016-pdf.pdf)
-
+    
 ## May 28
 
 - Readings
@@ -29,3 +28,5 @@
 
 - Supplementary readings
     - [Kant’s Philosophy of Mathematics](https://plato.stanford.edu/entries/kant-mathematics/)
+    - Richard Dedekind, Was sind und was sollen die Zahlen? - [German](http://www.opera-platonis.de/dedekind/Dedekind_Was_sind_2.pdf), [English](https://www.gutenberg.org/files/21016/21016-pdf.pdf)
+
