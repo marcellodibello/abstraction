@@ -10,4 +10,4 @@
 
 - Platos' Ghost, Chapter 2
 
-- [Kant’s Philosophy of Mathematics][https://plato.stanford.edu/entries/kant-mathematics/]
+- (Kant’s Philosophy of Mathematics)[https://plato.stanford.edu/entries/kant-mathematics/]
