@@ -2,15 +2,17 @@
 
 ## April 30
 
-- Clemant Greenberg, [Avant Garde and Kitsch](http://sites.uci.edu/form/files/2015/01/Greenberg-Clement-Avant-Garde-and-Kitsch-copy.pdf)
+- Readings
+    - Clemant Greenberg, [Avant Garde and Kitsch](http://sites.uci.edu/form/files/2015/01/Greenberg-Clement-Avant-Garde-and-Kitsch-copy.pdf)
 
 ## May 14
 
-- Jeremy Gray, Plato's Ghost: the modernist transformation of mathematics, Princeton UP 2008
-    - Introduction 
-    - Chapter 1
+- Readings
+    - Jeremy Gray, Plato's Ghost, Princeton UP 2008
+        - Introduction 
+        - Chapter 1
 
-- David E. Rowe, [Review of Plato's Ghost](https://www.ams.org/journals/bull/2013-50-03/S0273-0979-2012-01403-9/S0273-0979-2012-01403-9.pdf)
+    - David E. Rowe, [Review of Plato's Ghost](https://www.ams.org/journals/bull/2013-50-03/S0273-0979-2012-01403-9/S0273-0979-2012-01403-9.pdf)
 
 - Supplementary readings
     - Jacques Bair, Piotr B. Laszczyk, Peter Heinig, Mikhail G. Katz, Jan Peter Schafermeyer, and David Sherry, [Klein vs Mehrtens: restoring the reputation of a great modern](https://arxiv.org/pdf/1803.02193.pdf)
@@ -21,8 +23,9 @@
 
 ## May 28
 
-- Jeremy Gray, Plato's Ghost: the modernist transformation of mathematics, Princeton UP 2008
-    - Chapter 2
+- Readings
+    - Jeremy Gray, Plato's Ghost, Princeton UP 2008
+        - Chapter 2
 
 - Supplementary readings
     - [Kant’s Philosophy of Mathematics](https://plato.stanford.edu/entries/kant-mathematics/)
